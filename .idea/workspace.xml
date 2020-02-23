@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactorialValue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Y9jjOa66SFbiz6Qixjam2fdXqA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.FactorialValue">
+  <component name="RunManager" selected="Python.numpyshape">
     <configuration name="ArgumentsFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="booleanvalues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NumPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +88,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/booleanvalues.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NumPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numpyshape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpyshape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numpyshape" />
+        <item itemvalue="Python.NumPy" />
         <item itemvalue="Python.FactorialValue" />
         <item itemvalue="Python.ArgumentsFunction" />
         <item itemvalue="Python.while" />
-        <item itemvalue="Python.list" />
-        <item itemvalue="Python.booleanvalues" />
       </list>
     </recent_temporary>
   </component>
@@ -160,33 +160,69 @@
       <option name="presentableId" value="Default" />
       <updated>1582361839576</updated>
     </task>
+    <task id="LOCAL-00001" summary="Arguments Function&#10;list&#10;while">
+      <created>1582451990879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582451990879</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Arguments Function&#10;list&#10;while" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arguments Function&#10;list&#10;while" />
   </component>
   <component name="WindowStateProjectService">
     <state x="201" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582361987959">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
     <state x="201" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/47.27.1393.873@47.27.1393.873" timestamp="1582361987959" />
-    <state width="1370" height="130" key="GridCell.Tab.0.bottom" timestamp="1582451557802">
+    <state x="347" y="27" width="782" height="873" key="CommitChangelistDialog2" timestamp="1582451990623">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
-    <state width="1370" height="130" key="GridCell.Tab.0.bottom/47.27.1393.873@47.27.1393.873" timestamp="1582451557802" />
-    <state width="1370" height="130" key="GridCell.Tab.0.center" timestamp="1582451557801">
+    <state x="347" y="27" width="782" height="873" key="CommitChangelistDialog2/47.27.1393.873@47.27.1393.873" timestamp="1582451990623" />
+    <state width="1370" height="130" key="GridCell.Tab.0.bottom" timestamp="1582453462018">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
-    <state width="1370" height="130" key="GridCell.Tab.0.center/47.27.1393.873@47.27.1393.873" timestamp="1582451557801" />
-    <state width="1370" height="130" key="GridCell.Tab.0.left" timestamp="1582451557800">
+    <state width="1370" height="130" key="GridCell.Tab.0.bottom/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
+    <state width="1370" height="130" key="GridCell.Tab.0.center" timestamp="1582453462017">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
-    <state width="1370" height="130" key="GridCell.Tab.0.left/47.27.1393.873@47.27.1393.873" timestamp="1582451557800" />
-    <state width="1370" height="130" key="GridCell.Tab.0.right" timestamp="1582451557801">
+    <state width="1370" height="130" key="GridCell.Tab.0.center/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
+    <state width="1370" height="130" key="GridCell.Tab.0.left" timestamp="1582453462017">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
-    <state width="1370" height="130" key="GridCell.Tab.0.right/47.27.1393.873@47.27.1393.873" timestamp="1582451557801" />
+    <state width="1370" height="130" key="GridCell.Tab.0.left/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
+    <state width="1370" height="130" key="GridCell.Tab.0.right" timestamp="1582453462018">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state width="1370" height="130" key="GridCell.Tab.0.right/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
+    <state width="1370" height="272" key="GridCell.Tab.1.bottom" timestamp="1582452255934">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state width="1370" height="272" key="GridCell.Tab.1.bottom/47.27.1393.873@47.27.1393.873" timestamp="1582452255934" />
+    <state width="1370" height="272" key="GridCell.Tab.1.center" timestamp="1582452255933">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state width="1370" height="272" key="GridCell.Tab.1.center/47.27.1393.873@47.27.1393.873" timestamp="1582452255933" />
+    <state width="1370" height="272" key="GridCell.Tab.1.left" timestamp="1582452255932">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state width="1370" height="272" key="GridCell.Tab.1.left/47.27.1393.873@47.27.1393.873" timestamp="1582452255932" />
+    <state width="1370" height="272" key="GridCell.Tab.1.right" timestamp="1582452255934">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state width="1370" height="272" key="GridCell.Tab.1.right/47.27.1393.873@47.27.1393.873" timestamp="1582452255934" />
     <state x="218" y="126" key="SettingsEditor" timestamp="1582444482190">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
     <state x="218" y="126" key="SettingsEditor/47.27.1393.873@47.27.1393.873" timestamp="1582444482190" />
+    <state x="338" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582452013150">
+      <screen x="47" y="27" width="1393" height="873" />
+    </state>
+    <state x="338" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/47.27.1393.873@47.27.1393.873" timestamp="1582452013150" />
     <state x="399" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1582444060899">
       <screen x="47" y="27" width="1393" height="873" />
     </state>
