@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BFSAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/BFSAlgorithm.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +34,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.FactorialValue">
-    <configuration name="ArgumentsFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.BFSAlgorithm">
+    <configuration name="BFSAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +47,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ArgumentsFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFSAlgorithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BFSAlgorithm" />
         <item itemvalue="Python.FactorialValue" />
         <item itemvalue="Python.list" />
         <item itemvalue="Python.numpyshape" />
         <item itemvalue="Python.NumPy" />
-        <item itemvalue="Python.ArgumentsFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -166,12 +165,20 @@
       <option name="project" value="LOCAL" />
       <updated>1582451990879</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wotking on BFS Algorithm">
+      <created>1586985109437</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586985109437</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Arguments Function&#10;list&#10;while" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arguments Function&#10;list&#10;while" />
+    <MESSAGE value="Wotking on BFS Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wotking on BFS Algorithm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="201" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582361987959">
@@ -182,29 +189,30 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="439" y="49" key="#numpyshape/0.0.1440.870@0.0.1440.870" timestamp="1586983997399" />
-    <state x="347" y="27" width="782" height="873" key="CommitChangelistDialog2" timestamp="1582451990623">
-      <screen x="47" y="27" width="1393" height="873" />
+    <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2" timestamp="1586985107799">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1586985107799" />
     <state x="347" y="27" width="782" height="873" key="CommitChangelistDialog2/47.27.1393.873@47.27.1393.873" timestamp="1582451990623" />
-    <state width="1362" height="210" key="GridCell.Tab.0.bottom" timestamp="1586984365634">
+    <state width="1419" height="113" key="GridCell.Tab.0.bottom" timestamp="1587018973017">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1362" height="210" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1586984365634" />
+    <state width="1419" height="113" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1587018973017" />
     <state width="1370" height="130" key="GridCell.Tab.0.bottom/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
-    <state width="1362" height="210" key="GridCell.Tab.0.center" timestamp="1586984365633">
+    <state width="1419" height="113" key="GridCell.Tab.0.center" timestamp="1587018973017">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1362" height="210" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1586984365633" />
+    <state width="1419" height="113" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1587018973017" />
     <state width="1370" height="130" key="GridCell.Tab.0.center/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
-    <state width="1362" height="210" key="GridCell.Tab.0.left" timestamp="1586984365633">
+    <state width="1419" height="113" key="GridCell.Tab.0.left" timestamp="1587018973016">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1362" height="210" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1586984365633" />
+    <state width="1419" height="113" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1587018973016" />
     <state width="1370" height="130" key="GridCell.Tab.0.left/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
-    <state width="1362" height="210" key="GridCell.Tab.0.right" timestamp="1586984365633">
+    <state width="1419" height="113" key="GridCell.Tab.0.right" timestamp="1587018973017">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
-    <state width="1362" height="210" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1586984365633" />
+    <state width="1419" height="113" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1587018973017" />
     <state width="1370" height="130" key="GridCell.Tab.0.right/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
     <state width="1370" height="272" key="GridCell.Tab.1.bottom" timestamp="1582452255934">
       <screen x="47" y="27" width="1393" height="873" />
@@ -227,9 +235,10 @@
     </state>
     <state x="177" y="99" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1586984336828" />
     <state x="218" y="126" key="SettingsEditor/47.27.1393.873@47.27.1393.873" timestamp="1582444482190" />
-    <state x="338" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1582452013150">
-      <screen x="47" y="27" width="1393" height="873" />
+    <state x="301" y="170" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1586985118210">
+      <screen x="0" y="0" width="1440" height="870" />
     </state>
+    <state x="301" y="170" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1586985118210" />
     <state x="338" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/47.27.1393.873@47.27.1393.873" timestamp="1582452013150" />
     <state x="364" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1586983829435">
       <screen x="0" y="0" width="1440" height="870" />
