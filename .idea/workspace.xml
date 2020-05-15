@@ -31,16 +31,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/bin" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Test">
-    <configuration name="BFSAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.boolean_values">
+    <configuration name="Variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +51,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BFSAlgorithm.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Devin\PycharmProjects\PythonBasics\Variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +64,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DFSAlgorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="boolean_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,7 +76,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFSAlgorithm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boolean_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GraphGredyBfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="global_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GraphGredyBfs.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Devin\PycharmProjects\PythonBasics\global_keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="JPoint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="global_variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JPoint.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Devin\PycharmProjects\PythonBasics\global_variables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="type_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/type_conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.JPoint" />
-        <item itemvalue="Python.GraphGredyBfs" />
-        <item itemvalue="Python.DFSAlgorithm" />
-        <item itemvalue="Python.BFSAlgorithm" />
+        <item itemvalue="Python.boolean_values" />
+        <item itemvalue="Python.type_conversion" />
+        <item itemvalue="Python.Variable" />
+        <item itemvalue="Python.global_variables" />
+        <item itemvalue="Python.global_keyword" />
       </list>
     </recent_temporary>
   </component>
@@ -218,24 +221,32 @@
     </state>
     <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1587022514978" />
     <state x="347" y="27" width="782" height="873" key="CommitChangelistDialog2/47.27.1393.873@47.27.1393.873" timestamp="1582451990623" />
-    <state width="1419" height="199" key="GridCell.Tab.0.bottom" timestamp="1587135741434">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state x="435" y="225" key="FileChooserDialogImpl" timestamp="1589529226923">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state x="435" y="225" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1589529226923" />
+    <state width="1222" height="250" key="GridCell.Tab.0.bottom" timestamp="1589533268304">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1222" height="250" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1589533268304" />
     <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1587135741434" />
     <state width="1370" height="130" key="GridCell.Tab.0.bottom/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
-    <state width="1419" height="199" key="GridCell.Tab.0.center" timestamp="1587135741433">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state width="1222" height="250" key="GridCell.Tab.0.center" timestamp="1589533268304">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state width="1222" height="250" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1589533268304" />
     <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1370" height="130" key="GridCell.Tab.0.center/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
-    <state width="1419" height="199" key="GridCell.Tab.0.left" timestamp="1587135741433">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state width="1222" height="250" key="GridCell.Tab.0.left" timestamp="1589533268304">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state width="1222" height="250" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1589533268304" />
     <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1370" height="130" key="GridCell.Tab.0.left/47.27.1393.873@47.27.1393.873" timestamp="1582453462017" />
-    <state width="1419" height="199" key="GridCell.Tab.0.right" timestamp="1587135741433">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state width="1222" height="250" key="GridCell.Tab.0.right" timestamp="1589533268304">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state width="1222" height="250" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1589533268304" />
     <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1370" height="130" key="GridCell.Tab.0.right/47.27.1393.873@47.27.1393.873" timestamp="1582453462018" />
     <state width="1370" height="272" key="GridCell.Tab.1.bottom" timestamp="1582452255934">
@@ -254,9 +265,10 @@
       <screen x="47" y="27" width="1393" height="873" />
     </state>
     <state width="1370" height="272" key="GridCell.Tab.1.right/47.27.1393.873@47.27.1393.873" timestamp="1582452255934" />
-    <state x="177" y="99" key="SettingsEditor" timestamp="1586984336828">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state x="98" y="200" width="998" height="708" key="SettingsEditor" timestamp="1589529839093">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state x="98" y="200" width="998" height="708" key="SettingsEditor/0.0.1280.994@0.0.1280.994" timestamp="1589529839093" />
     <state x="177" y="99" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1586984336828" />
     <state x="218" y="126" key="SettingsEditor/47.27.1393.873@47.27.1393.873" timestamp="1582444482190" />
     <state x="301" y="170" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1587023397668">
@@ -264,9 +276,10 @@
     </state>
     <state x="301" y="170" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1587023397668" />
     <state x="338" y="198" width="800" height="528" key="Vcs.Push.Dialog.v2/47.27.1393.873@47.27.1393.873" timestamp="1582452013150" />
-    <state x="364" y="263" key="com.intellij.ide.util.TipDialog" timestamp="1586983829435">
-      <screen x="0" y="0" width="1440" height="870" />
+    <state x="324" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1589529033387">
+      <screen x="0" y="0" width="1280" height="994" />
     </state>
+    <state x="324" y="300" key="com.intellij.ide.util.TipDialog/0.0.1280.994@0.0.1280.994" timestamp="1589529033387" />
     <state x="364" y="263" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1586983829435" />
     <state x="399" y="291" key="com.intellij.ide.util.TipDialog/47.27.1393.873@47.27.1393.873" timestamp="1582444060899" />
   </component>
