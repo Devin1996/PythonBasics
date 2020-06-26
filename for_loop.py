@@ -1,3 +1,3 @@
-List0516 = ["apple","banana","cherry"]
-for y in List0516:
-    print(y)
+List0520 = [0.5 * x for x in range(0, 4)]
+
+print(List0520)

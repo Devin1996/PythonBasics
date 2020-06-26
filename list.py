@@ -5,6 +5,7 @@ print(list[-1])
 print(list[2:5])
 
 list2 = ["apple", "banana", "cherry"]
+list2.pop(1)
 list2[1] = "blackcurrant"
 print(list2)
 
