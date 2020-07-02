@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/untitled.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/for_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +43,7 @@
       <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dictionaries">
+  <component name="RunManager" selected="Python.vectorization_demo">
     <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -61,27 +57,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,13 +128,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vectorization_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vectorization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vectorization/vectorization_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vectorization_demo" />
         <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.sets" />
         <item itemvalue="Python.tuples" />
         <item itemvalue="Python.lists" />
-        <item itemvalue="Python.for_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590498791598</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Dictionaries, Lists, Sets and Tuples">
+      <created>1593163340875</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593163340875</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +261,8 @@
     <MESSAGE value="BFS implemetation" />
     <MESSAGE value="Completed Linear Regression Implementation" />
     <MESSAGE value="Completed  Logistic Regression with Regularization-Nonlinear BoundaryFile and Logistic Regression without Regularization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed  Logistic Regression with Regularization-Nonlinear BoundaryFile and Logistic Regression without Regularization" />
+    <MESSAGE value="Dictionaries, Lists, Sets and Tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dictionaries, Lists, Sets and Tuples" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="32" key="#function" timestamp="1590294278260">
@@ -273,11 +277,12 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="439" y="49" key="#numpyshape/0.0.1440.870@0.0.1440.870" timestamp="1586983997399" />
-    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1590498790473">
+    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1593163340467">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1589537144711" />
     <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1587022514978" />
+    <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163340467" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497327578" />
     <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590498790473" />
     <state x="834" y="318" key="FileChooserDialogImpl" timestamp="1592984665015">
@@ -285,7 +290,7 @@
     </state>
     <state x="435" y="225" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1589529226923" />
     <state x="834" y="318" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592984665015" />
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1593163309657">
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1593239456167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -293,9 +298,10 @@
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163309657" />
+    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1593163309656">
+    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1593239456167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -303,9 +309,10 @@
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163309656" />
+    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1593163309656">
+    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1593239456167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -313,9 +320,10 @@
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163309656" />
+    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1593163309656">
+    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1593239456167">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -323,6 +331,7 @@
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163309656" />
+    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
     <state width="1515" height="253" key="GridCell.Tab.1.bottom" timestamp="1592740704065">
@@ -356,18 +365,20 @@
     <state x="177" y="99" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1586984336828" />
     <state x="118" y="0" width="999" height="834" key="SettingsEditor/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590495291847" />
     <state x="118" y="127" width="1198" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592984487440" />
-    <state x="322" y="163" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1590498842423">
+    <state x="322" y="163" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1593163347368">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="268" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1589537153768" />
     <state x="301" y="170" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1587023397668" />
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593163347368" />
     <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590498842423" />
-    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1592980307270">
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1593688449092">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="324" y="300" key="com.intellij.ide.util.TipDialog/0.0.1280.994@0.0.1280.994" timestamp="1589542204270" />
     <state x="364" y="263" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1586983829435" />
     <state x="389" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592727151776" />
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593688449092" />
     <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1592980307270" />
     <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590496015225">
       <screen x="0" y="0" width="1536" height="834" />
