@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="Vectorization and">
+    <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/broadcasting/softmax_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basics_with_numpy/broadcasting/softmax_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notmalization/normalize_rows.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basics_with_numpy/notmalization/normalize_rows.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reshape_and_shape/image2vector.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basics_with_numpy/reshape_and_shape/image2vector.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -46,11 +43,12 @@
       <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
       <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.l2_lossfunction">
-    <configuration name="l1_lossfunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.inita_with_zer">
+    <configuration name="helper_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,11 +56,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vectorization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vectorization/l1_lossfunction.py" />
+      <option name="SCRIPT_NAME" value="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\helper_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inita_with_zer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a/inita_with_zer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softmax_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lr_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/broadcasting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/broadcasting/softmax_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a/lr_utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vectorizaion2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="overview_of_the_problem_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,32 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vectorization" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vectorization/vectorizaion2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vectorization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Vectorization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Vectorization/vectorization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a/overview_of_the_problem_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inita_with_zer" />
+        <item itemvalue="Python.helper_functions" />
+        <item itemvalue="Python.overview_of_the_problem_set" />
+        <item itemvalue="Python.lr_utils" />
         <item itemvalue="Python.l2_lossfunction" />
-        <item itemvalue="Python.l1_lossfunction" />
-        <item itemvalue="Python.vectorizaion2" />
-        <item itemvalue="Python.vectorization" />
-        <item itemvalue="Python.softmax_function" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593762380125</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Vectorization and Loss function l1,l2">
+      <created>1593769832133</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1593769832133</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -308,7 +313,8 @@
     <MESSAGE value="Sigmoid function and Sigmoid and sigmoid gradient" />
     <MESSAGE value="Sigmoid gradient with numpy" />
     <MESSAGE value="Softmax function and normalise rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="Softmax function and normalise rows" />
+    <MESSAGE value="Vectorization and Loss function l1,l2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vectorization and Loss function l1,l2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="268" y="64" key="#TODO" timestamp="1593758076199">
@@ -327,12 +333,12 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="439" y="49" key="#numpyshape/0.0.1440.870@0.0.1440.870" timestamp="1586983997399" />
-    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1593766802856">
+    <state x="389" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1593769831673">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1589537144711" />
     <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1587022514978" />
-    <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593766802856" />
+    <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593769831673" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497327578" />
     <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590498790473" />
     <state x="834" y="318" key="FileChooserDialogImpl" timestamp="1592984665015">
@@ -340,47 +346,47 @@
     </state>
     <state x="435" y="225" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1589529226923" />
     <state x="834" y="318" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592984665015" />
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom" timestamp="1593764364911">
+    <state width="1365" height="211" key="GridCell.Tab.0.bottom" timestamp="1593775623405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
     <state width="1419" height="199" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1587135741434" />
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
-    <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593764364911" />
+    <state width="1365" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593775623405" />
     <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.center" timestamp="1593764364910">
+    <state width="1365" height="211" key="GridCell.Tab.0.center" timestamp="1593775623405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
     <state width="1419" height="199" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
-    <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593764364910" />
+    <state width="1365" height="211" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593775623405" />
     <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.left" timestamp="1593764364910">
+    <state width="1365" height="211" key="GridCell.Tab.0.left" timestamp="1593775623405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
     <state width="1419" height="199" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
-    <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593764364910" />
+    <state width="1365" height="211" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593775623405" />
     <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
-    <state width="1515" height="212" key="GridCell.Tab.0.right" timestamp="1593764364910">
+    <state width="1365" height="211" key="GridCell.Tab.0.right" timestamp="1593775623405">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
     <state width="1419" height="199" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1587135741433" />
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
-    <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593764364910" />
+    <state width="1365" height="211" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593775623405" />
     <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590515633286" />
@@ -408,12 +414,12 @@
     <state width="1259" height="329" key="GridCell.Tab.1.right/0.0.1280.994@0.0.1280.994" timestamp="1589542641882" />
     <state width="1515" height="253" key="GridCell.Tab.1.right/0.0.1536.771@0.0.1536.771" timestamp="1592740704065" />
     <state width="1515" height="253" key="GridCell.Tab.1.right/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
-    <state x="118" y="0" width="999" height="834" key="SettingsEditor" timestamp="1593764928672">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="2063" y="0" width="999" height="834" key="SettingsEditor" timestamp="1593772933853">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="98" y="200" width="998" height="708" key="SettingsEditor/0.0.1280.994@0.0.1280.994" timestamp="1589529839093" />
     <state x="177" y="99" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1586984336828" />
-    <state x="118" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593764928672" />
+    <state x="2063" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593772933853" />
     <state x="118" y="0" width="999" height="834" key="SettingsEditor/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590495291847" />
     <state x="118" y="127" width="1198" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592984487440" />
     <state x="322" y="163" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1593689433826">
@@ -423,13 +429,13 @@
     <state x="301" y="170" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1587023397668" />
     <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593689433826" />
     <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590498842423" />
-    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1593688449092">
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1593773584872">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="324" y="300" key="com.intellij.ide.util.TipDialog/0.0.1280.994@0.0.1280.994" timestamp="1589542204270" />
     <state x="364" y="263" key="com.intellij.ide.util.TipDialog/0.0.1440.870@0.0.1440.870" timestamp="1586983829435" />
     <state x="389" y="242" key="com.intellij.ide.util.TipDialog/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592727151776" />
-    <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593688449092" />
+    <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1593773584872" />
     <state x="389" y="252" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1592980307270" />
     <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590496015225">
       <screen x="0" y="0" width="1536" height="834" />
