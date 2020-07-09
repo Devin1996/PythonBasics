@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c/asond.py" beforeDir="false" afterPath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c/asond.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +32,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\images" />
-      <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
-      <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\images" />
       <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\datasets" />
@@ -47,8 +43,14 @@
       <recent name="D:\Projects\PythonforA\reshape_and_shape" />
       <recent name="D:\Projects\PythonforA\Vectorization" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\PythonforA\Building_your_Deep_Neural_Network_Step_by_Step_v8a" />
+      <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\images" />
+      <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
+      <recent name="C:\Users\Devin\PycharmProjects\PythonBasics" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.asond">
+  <component name="RunManager" selected="Python.deep_neural_network">
     <configuration name="asond" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -62,6 +64,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c/asond.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="deep_neural_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a/deep_neural_network.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,27 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="overview_of_the_problem_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="untitled" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logistic_Regression_with_a_Neural_Network_mindset_v6a/overview_of_the_problem_set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_with_ur_own_img" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.deep_neural_network" />
         <item itemvalue="Python.asond" />
         <item itemvalue="Python.lr_utils" />
         <item itemvalue="Python.model_that_merge_all_functions" />
         <item itemvalue="Python.optimization" />
-        <item itemvalue="Python.overview_of_the_problem_set" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594022617470</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Working wih hidden layer networks">
+      <created>1594121898262</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1594121898262</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -360,7 +369,8 @@
     <MESSAGE value="Logistic regression with a neural network mindset" />
     <MESSAGE value="Logistic regression with a neural network mindset&#10;-Model that merge all functions&#10;-Predict&#10;-Test with Your Own Image&#10;-Forward and Backward propagation" />
     <MESSAGE value="Test with Your Own Image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test with Your Own Image" />
+    <MESSAGE value="Working wih hidden layer networks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working wih hidden layer networks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="268" y="64" key="#TODO" timestamp="1593758076199">
@@ -383,20 +393,20 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="439" y="49" key="#numpyshape/0.0.1440.870@0.0.1440.870" timestamp="1586983997399" />
-    <state x="389" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1594022617032">
+    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1594121897113">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1589537144711" />
     <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1587022514978" />
     <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022617032" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497327578" />
-    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1590498790473" />
+    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594121897113" />
     <state x="834" y="318" key="FileChooserDialogImpl" timestamp="1592984665015">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="435" y="225" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1589529226923" />
     <state x="834" y="318" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1592984665015" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1594121648659">
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1594271508681">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -404,11 +414,11 @@
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.bottom/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1510" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022498360" />
-    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594121648659" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594271508681" />
     <state width="1515" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1365" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1593781236297" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1594121648659">
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1594271508680">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -416,11 +426,11 @@
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.center/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1510" height="209" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022498360" />
-    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594121648659" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594271508680" />
     <state width="1515" height="212" key="GridCell.Tab.0.center/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.center/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1365" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1593781236296" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1594121648659">
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1594271508679">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -428,11 +438,11 @@
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.left/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1510" height="209" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022498360" />
-    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594121648659" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594271508679" />
     <state width="1515" height="212" key="GridCell.Tab.0.left/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.left/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253817" />
     <state width="1365" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1593781236296" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1594121648659">
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1594271508680">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state width="1259" height="266" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1589544386654" />
@@ -440,7 +450,7 @@
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.771@0.0.1536.771" timestamp="1592740704063" />
     <state width="1515" height="253" key="GridCell.Tab.0.right/0.0.1536.802/303.-1024.1280.994@0.0.1536.802" timestamp="1592729416043" />
     <state width="1510" height="209" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022498360" />
-    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594121648659" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594271508680" />
     <state width="1515" height="212" key="GridCell.Tab.0.right/0.0.1536.834/1920.45.1280.994@0.0.1536.834" timestamp="1593239456167" />
     <state width="1515" height="213" key="GridCell.Tab.0.right/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497253818" />
     <state width="1365" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1593781236297" />
@@ -481,13 +491,13 @@
     <state x="2463" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594118282027" />
     <state x="118" y="0" width="999" height="834" key="SettingsEditor/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590495291847" />
     <state x="118" y="127" width="1198" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1592984487440" />
-    <state x="322" y="163" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1594022635517">
+    <state x="322" y="163" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1594121910392">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="268" y="194" key="Vcs.Push.Dialog.v2/0.0.1280.994@0.0.1280.994" timestamp="1589537153768" />
     <state x="301" y="170" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1587023397668" />
     <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022635517" />
-    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1590498842423" />
+    <state x="322" y="163" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1594121910392" />
     <state x="389" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1594114135742">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
