@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="858019a2-c2a7-42f7-8b3c-21faf6581e64" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c/asond.py" beforeDir="false" afterPath="$PROJECT_DIR$/Planar_data_classification_with_onehidden_layer_v6c/asond.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Building_your_Deep_Neural_Network_Step_by_Step_v8a" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deep Neural Network - Application v8" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -44,6 +43,7 @@
       <recent name="D:\Projects\PythonforA\Vectorization" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\PythonforA\Deep Neural Network - Application v8" />
       <recent name="D:\Projects\PythonforA\Building_your_Deep_Neural_Network_Step_by_Step_v8a" />
       <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a\images" />
       <recent name="D:\Projects\PythonforA\Logistic_Regression_with_a_Neural_Network_mindset_v6a" />
@@ -345,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594121898262</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Building_your_Deep_Neural_Network_Step_by_Step_v8a.dnn_utils_v2">
+      <created>1594274425339</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1594274425339</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -370,7 +377,8 @@
     <MESSAGE value="Logistic regression with a neural network mindset&#10;-Model that merge all functions&#10;-Predict&#10;-Test with Your Own Image&#10;-Forward and Backward propagation" />
     <MESSAGE value="Test with Your Own Image" />
     <MESSAGE value="Working wih hidden layer networks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working wih hidden layer networks" />
+    <MESSAGE value="Building_your_Deep_Neural_Network_Step_by_Step_v8a.dnn_utils_v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building_your_Deep_Neural_Network_Step_by_Step_v8a.dnn_utils_v2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="268" y="64" key="#TODO" timestamp="1593758076199">
@@ -393,12 +401,13 @@
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="439" y="49" key="#numpyshape/0.0.1440.870@0.0.1440.870" timestamp="1586983997399" />
-    <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1594121897113">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="2334" y="0" width="809" height="834" key="CommitChangelistDialog2" timestamp="1594274424914">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="276" y="0" key="CommitChangelistDialog2/0.0.1280.994@0.0.1280.994" timestamp="1589537144711" />
     <state x="310" y="0" width="809" height="870" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1587022514978" />
     <state x="389" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1594022617032" />
+    <state x="2334" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1920.1050@1920.0.1920.1050" timestamp="1594274424914" />
     <state x="331" y="0" key="CommitChangelistDialog2/0.0.1536.834/312.-1024.1280.994@0.0.1536.834" timestamp="1590497327578" />
     <state x="331" y="0" width="809" height="834" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1594121897113" />
     <state x="834" y="318" key="FileChooserDialogImpl" timestamp="1592984665015">
